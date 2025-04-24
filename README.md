@@ -1,8 +1,3 @@
-Here’s a complete and professional `README.md` file for your **Number Lookup and Spam Check REST API (Django)** assignment. This follows production-level standards, includes instructions, project description, features, and setup guide.
-
----
-
-```markdown
 # 📱 Number Lookup and Spam Check API
 
 A production-ready RESTful API built with **Django** and **Django REST Framework**, designed to support mobile apps that identify spam callers and lookup contact information by phone number or name.
